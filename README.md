@@ -23,7 +23,7 @@ advanced techniques and more features (such as spacial data from OpenStreetMap, 
 	* 2014 Estimate
 	* 2010 Census
 	* 2000 Census
-- **p2-wy-453910-naics-data.csv** - Sales data for competing stores for WY obtained from the US Census Bureau.
+- **p2-wy-453910-naics-data.csv** - Sales data for competing stores for WY obtained from the US Census Bureau (https://www.naics.com/naics-code-description/?code=453910).
 	* Business Name
 	* Physical City Name
 	* Sales Volume
@@ -37,6 +37,20 @@ advanced techniques and more features (such as spacial data from OpenStreetMap, 
 	* Total Families
 
 ## Feature Selection
+
+- City
+- State
+- Country
+- Pawdacity Annual Sales
+- Competitor Annual Average Sales
+- Competitor Annual Total Sales
+- 2014 Estimate
+- 2010 Census
+- 2000 Census
+- Land Area
+- Households with Under 18
+- Population Density
+- Total Families
 
 ## Data Preparation
 
